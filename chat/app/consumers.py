@@ -31,10 +31,6 @@ class ChatConsumer(WebsocketConsumer):
             }
         )
 
-       
-
-        
-
 
 
     def chat_message(self, event):
